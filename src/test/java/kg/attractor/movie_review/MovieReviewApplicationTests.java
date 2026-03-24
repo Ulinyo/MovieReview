@@ -1,4 +1,4 @@
-package kg.attractor.moviereview;
+package kg.attractor.movie_review;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
